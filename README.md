@@ -1,6 +1,7 @@
 # Use-Net: Satellite Data-Based Framework for Optimizing Billboard Placement in Urban Areas
 
 >**S. Dhang,  P. Dey, M. Zhang,  and S. Dev**, *"Use-Net: Satellite Data-Based Framework for Optimizing Billboard Placement in Urban Areas"*, In IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium,  (pp. 4860-4863).
+
 Please cite the above paper if you intend to use whole/part of the code.  This code is only for academic and research purposes.
 
 ## Overview
